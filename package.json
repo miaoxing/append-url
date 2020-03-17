@@ -1,0 +1,9 @@
+{
+  "name": "append-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery-param": "^1.0.2"
+  }
+}
