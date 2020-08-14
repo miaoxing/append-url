@@ -25,4 +25,4 @@ describe('append url', () => {
   test('args and params', () => {
     expect(appendUrl('users/%s', 1, {type: 1})).toBe('users/1?type=1');
   });
-})
+});

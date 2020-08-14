@@ -22,6 +22,6 @@ const appendUrl = (url, argsOrParam, params) => {
     default:
       return url + param(params);
   }
-}
+};
 
 export default appendUrl;
