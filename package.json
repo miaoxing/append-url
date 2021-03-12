@@ -1,6 +1,6 @@
 {
   "name": "append-url",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -13,6 +13,6 @@
     "jquery-param": "^1.0.2"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^6.3.2"
+    "@miaoxing/dev": "^6.3.3"
   }
 }
