@@ -1,3 +1,13 @@
+## [1.0.11](https://github.com/miaoxing/append-url/compare/append-url@1.0.10...append-url@1.0.11) (2021-04-27)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `6.3.4` to `6.4.0`
+
 ## [1.0.10](https://github.com/miaoxing/append-url/compare/append-url@1.0.9...append-url@1.0.10) (2021-03-22)
 
 
