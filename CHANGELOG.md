@@ -1,3 +1,13 @@
+## [1.0.15](https://github.com/miaoxing/append-url/compare/append-url@1.0.14...append-url@1.0.15) (2022-01-12)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 ## [1.0.14](https://github.com/miaoxing/append-url/compare/append-url@1.0.13...append-url@1.0.14) (2021-10-28)
 
 
