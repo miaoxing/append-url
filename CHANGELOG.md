@@ -1,4 +1,14 @@
-## [1.0.18](https://github.com/miaoxing/append-url/compare/append-url@1.0.17...append-url@1.0.18) (2022-07-01)
+## [1.0.19](https://github.com/miaoxing/append-url/compare/v1.0.18...v1.0.19) (2022-08-02)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.2` to `8.1.3`
+
+## [1.0.18](https://github.com/miaoxing/append-url/compare/v1.0.17...v1.0.18) (2022-07-01)
 
 
 
@@ -8,7 +18,7 @@
 
 * **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
 
-## [1.0.17](https://github.com/miaoxing/append-url/compare/append-url@1.0.16...append-url@1.0.17) (2022-06-01)
+## [1.0.17](https://github.com/miaoxing/append-url/compare/v1.0.16...v1.0.17) (2022-06-01)
 
 
 
@@ -18,7 +28,7 @@
 
 * **@miaoxing/dev:** upgrade from `8.1.0` to `8.1.1`
 
-## [1.0.16](https://github.com/miaoxing/append-url/compare/append-url@1.0.15...append-url@1.0.16) (2022-02-05)
+## [1.0.16](https://github.com/miaoxing/append-url/compare/v1.0.15...v1.0.16) (2022-02-05)
 
 
 
@@ -28,7 +38,7 @@
 
 * **@miaoxing/dev:** upgrade from `8.0.1` to `8.1.0`
 
-## [1.0.15](https://github.com/miaoxing/append-url/compare/append-url@1.0.14...append-url@1.0.15) (2022-01-12)
+## [1.0.15](https://github.com/miaoxing/append-url/compare/v1.0.14...v1.0.15) (2022-01-12)
 
 
 
@@ -38,7 +48,7 @@
 
 * **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
 
-## [1.0.14](https://github.com/miaoxing/append-url/compare/append-url@1.0.13...append-url@1.0.14) (2021-10-28)
+## [1.0.14](https://github.com/miaoxing/append-url/compare/v1.0.13...v1.0.14) (2021-10-28)
 
 
 
@@ -48,7 +58,7 @@
 
 * **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
 
-## [1.0.13](https://github.com/miaoxing/append-url/compare/append-url@1.0.12...append-url@1.0.13) (2021-05-12)
+## [1.0.13](https://github.com/miaoxing/append-url/compare/v1.0.12...v1.0.13) (2021-05-12)
 
 
 
@@ -58,7 +68,7 @@
 
 * **@miaoxing/dev:** upgrade from `7.0.0` to `7.0.1`
 
-## [1.0.12](https://github.com/miaoxing/append-url/compare/append-url@1.0.11...append-url@1.0.12) (2021-05-11)
+## [1.0.12](https://github.com/miaoxing/append-url/compare/v1.0.11...v1.0.12) (2021-05-11)
 
 
 
@@ -68,7 +78,7 @@
 
 * **@miaoxing/dev:** upgrade from `6.4.0` to `7.0.0`
 
-## [1.0.11](https://github.com/miaoxing/append-url/compare/append-url@1.0.10...append-url@1.0.11) (2021-04-27)
+## [1.0.11](https://github.com/miaoxing/append-url/compare/v1.0.10...v1.0.11) (2021-04-27)
 
 
 
@@ -78,7 +88,7 @@
 
 * **@miaoxing/dev:** upgrade from `6.3.4` to `6.4.0`
 
-## [1.0.10](https://github.com/miaoxing/append-url/compare/append-url@1.0.9...append-url@1.0.10) (2021-03-22)
+## [1.0.10](https://github.com/miaoxing/append-url/compare/v1.0.9...v1.0.10) (2021-03-22)
 
 
 
@@ -88,7 +98,7 @@
 
 * **@miaoxing/dev:** upgrade from `6.3.3` to `6.3.4`
 
-## [1.0.9](https://github.com/miaoxing/append-url/compare/append-url@1.0.8...append-url@1.0.9) (2021-03-12)
+## [1.0.9](https://github.com/miaoxing/append-url/compare/v1.0.8...v1.0.9) (2021-03-12)
 
 
 
@@ -98,7 +108,7 @@
 
 * **@miaoxing/dev:** upgrade from `6.3.2` to `6.3.3`
 
-## [1.0.8](https://github.com/miaoxing/append-url/compare/append-url@1.0.7...append-url@1.0.8) (2021-03-10)
+## [1.0.8](https://github.com/miaoxing/append-url/compare/v1.0.7...v1.0.8) (2021-03-10)
 
 
 
@@ -108,7 +118,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.3.1 to 6.3.2
 
-## [1.0.7](https://github.com/miaoxing/append-url/compare/append-url@1.0.6...append-url@1.0.7) (2021-03-09)
+## [1.0.7](https://github.com/miaoxing/append-url/compare/v1.0.6...v1.0.7) (2021-03-09)
 
 
 
@@ -118,7 +128,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.3.0 to 6.3.1
 
-## [1.0.6](https://github.com/miaoxing/append-url/compare/append-url@1.0.5...append-url@1.0.6) (2021-03-09)
+## [1.0.6](https://github.com/miaoxing/append-url/compare/v1.0.5...v1.0.6) (2021-03-09)
 
 
 
@@ -128,7 +138,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.2.0 to 6.3.0
 
-## [1.0.5](https://github.com/miaoxing/append-url/compare/append-url@1.0.4...append-url@1.0.5) (2021-03-05)
+## [1.0.5](https://github.com/miaoxing/append-url/compare/v1.0.4...v1.0.5) (2021-03-05)
 
 
 
@@ -138,7 +148,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.1.2 to 6.2.0
 
-## [1.0.4](https://github.com/miaoxing/append-url/compare/append-url@1.0.3...append-url@1.0.4) (2020-09-25)
+## [1.0.4](https://github.com/miaoxing/append-url/compare/v1.0.3...v1.0.4) (2020-09-25)
 
 
 
@@ -148,7 +158,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.1.1 to 6.1.2
 
-## [1.0.3](https://github.com/miaoxing/append-url/compare/append-url@1.0.2...append-url@1.0.3) (2020-08-17)
+## [1.0.3](https://github.com/miaoxing/append-url/compare/v1.0.2...v1.0.3) (2020-08-17)
 
 
 
@@ -158,7 +168,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.1.0 to 6.1.1
 
-## [1.0.2](https://github.com/miaoxing/append-url/compare/append-url@1.0.1...append-url@1.0.2) (2020-08-14)
+## [1.0.2](https://github.com/miaoxing/append-url/compare/v1.0.1...v1.0.2) (2020-08-14)
 
 
 
