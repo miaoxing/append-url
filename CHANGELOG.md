@@ -1,3 +1,13 @@
+## [1.0.23](https://github.com/miaoxing/append-url/compare/v1.0.22...v1.0.23) (2023-09-02)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.2.2` to `8.2.3`
+
 ## [1.0.22](https://github.com/miaoxing/append-url/compare/v1.0.21...v1.0.22) (2023-07-31)
 
 
