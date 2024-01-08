@@ -1,3 +1,13 @@
+## [1.0.26](https://github.com/miaoxing/append-url/compare/v1.0.25...v1.0.26) (2024-01-08)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.0.0` to `9.1.0`
+
 ## [1.0.25](https://github.com/miaoxing/append-url/compare/v1.0.24...v1.0.25) (2023-12-31)
 
 
