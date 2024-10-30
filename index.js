@@ -2,6 +2,7 @@ import param from 'jquery-param';
 
 const appendUrl = (url, argsOrParam, params) => {
   if (url.indexOf('%s') !== -1) {
+    console.warn('Deprecated: Using %s for string interpolation is deprecated. Please use template strings instead.');
     // @link http://stackoverflow.com/questions/610406/javascript-equivalent-to-printf-string-format
     var i = 0;
     typeof argsOrParam !== 'object' && (argsOrParam = [argsOrParam]);
