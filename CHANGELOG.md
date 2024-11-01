@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/miaoxing/append-url/compare/v1.0.30...v1.1.0) (2024-11-01)
+
+
+### Features
+
+* **append-url, deprecated:** 废弃通过 `%s` 转换链接，改为使用 `${var}` ([8d6b17c](https://github.com/miaoxing/append-url/commit/8d6b17c393b85d03441a49cf9b7097a865d6554b))
+
 ## [1.0.30](https://github.com/miaoxing/append-url/compare/v1.0.29...v1.0.30) (2024-09-01)
 
 
